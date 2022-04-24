@@ -19,7 +19,7 @@ plt.scatter(df1["Date"],
 df1["Close"], color="r")
 
 plt.scatter(df2["Date"],
-df2["Close"], color="b")
+df2["Close"], color="y")
 
 plt.show
 
